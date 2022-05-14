@@ -1,2 +1,2 @@
-# Computer-Secience-Project-Work---2078
+# Computer-Science-Project-Work 2078
 Project Work 
